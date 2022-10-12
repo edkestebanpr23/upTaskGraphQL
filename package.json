@@ -14,7 +14,7 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
-    "apollo-server": "^2.14.0",
+    "apollo-server": "^2.25.4",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "graphql": "^15.0.0",
